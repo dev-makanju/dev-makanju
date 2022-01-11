@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on project involving Vue js and Node js...
 - 📫 How to reach me ...
 - 
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dev-makanju}.${dev-makanju})
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-makanju=true&hide_border=true&&count_private=true&include_all_commits=true" />
+- Glad to see you here.  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dev-makanju}.${dev-makanju})
+- Here is my coding stat...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
