@@ -6,7 +6,7 @@
 - 
 - ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dev-makanju}.${dev-makanju})
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?dev-makanju=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-makanju=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
