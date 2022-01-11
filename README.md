@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - Glad to see you here. ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dev-makanju}.${dev-makanju}) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-makanju&theme=tokyonight)
 
 
 
