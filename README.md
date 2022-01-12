@@ -28,13 +28,12 @@
 
 <div class="text-center" style="display:flex;align-item:center;flex:1;flex-direction:row;">
      <div class="class-wrapper">
-         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju&show_icons=true&theme=radical)]              (https://github.com/anuraghazra/github-readme-stats)
      </div>
      <div class="class-wrapper">
-         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-makanju&theme=tokyonight)
      </div>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-makanju&theme=tokyonight)
 <!---
   dev-makanju/dev-makanju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
