@@ -24,7 +24,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju&show_icons=true&theme=radical)]            (https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju&show_icons=true&theme=radical)]            
 
 <div class="text-center" style="display:flex;align-item:center;flex:1;flex-direction:row;">
      <div class="class-wrapper">
