@@ -9,12 +9,12 @@
 ## ✉️ Find me on:
 
 <p align="center">
-<a href="https://miracool.ml" target="_blank" rel="noopener noreferrer"><img height='100' width="100" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="25" style="vertical-align:top;margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
++<a href="https://miracool.ml" target="_blank" rel="noopener noreferrer"><img height='100' width="100" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="25" style="vertical-align:top;margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
 </a>
-<a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer">
++<a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer">
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="100" width="100" style="vertical-align:top;         margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
 </a>
-<a href="mailto:makurseme@gmail.com"> 
++<a href="mailto:makurseme@gmail.com"> 
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="100" width="100" style="vertical-align:top; margin:4px; background:#eee;padding: 1rem; border-raidus: 4px;color: #fff;">
 </a>
      
