@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @dev-makanju
 - 👀 I’m interested in building robust and scalable software solutions...
 - 🌱 I’m currently working on something cool
-- 💞️ I’m looking to collaborate on project involving Vue js and Node js...
+- 💞️ I’m looking to collaborate on project involving Vue js and React js...
 - 📫 How to reach me ...
 - - Glad to see you here. ![visitors](https://visitor-badge.glitch.me/badge?page_id=${dev-makanju}.${dev-makanju}) 
 - [![Github](https://img.shields.io/github/followers/dev-makanju?label=Follow&style=social)](https://github.com/CharalambosIoannou)
@@ -9,9 +9,12 @@
 ## ✉️ Find me on:
 
 <p align="center">
-<a href="https://miracool.ml" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="25" style="vertical-align:top;color:#eee; margin:4px"> </a>
-<a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="25" style="vertical-align:top; margin:4px;color:#eee;"></a>
-<a href="mailto:makurseme@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="25" style="vertical-align:top; margin:4px;color:#eee;"></a>
+<a href="https://miracool.ml" target="_blank" rel="noopener noreferrer"><img height='15' width="15" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="25" style="vertical-align:top;color:#eee; margin:4px"> </a>
+<a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer">
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="25" width="25" style="vertical-align:top;         margin:4px;color:#eee;">
+</a>
+<a href="mailto:makurseme@gmail.com"> 
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="25" width="25" style="vertical-align:top; margin:4px;color:#eee;"></a>
 </p>
 
 <br/>
