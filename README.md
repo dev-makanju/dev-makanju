@@ -15,7 +15,7 @@
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="100" width="100" style="vertical-align:top;         margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
 </a>
 <a href="mailto:makurseme@gmail.com"> 
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="100" width="100" style="vertical-align:top; margin:4px; background:#eee;padding: 1rem; border-raidus: 4px;">
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="100" width="100" style="vertical-align:top; margin:4px; background:#eee;padding: 1rem; border-raidus: 4px;color: #fff;">
 </a>
      
 </p>
