@@ -8,10 +8,14 @@
 - #webdev #github #beginners
 -
 <p align="center">
-    **✉ Find me on**
+    ✉ Find me on
 </p>
 <p align="center">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+   
+<a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer">
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="100" width="100" style="vertical-align:top;         margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
+</a>   
+ 
 <a href="https://www.linkedin.com/in/makanju-oluwafemi-emmanuel-2060bb184/" target="_blank" rel="noopener noreferrer">
      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="100" width="100" style="vertical-align:top;         margin:4px;background:#eee;padding: 1rem; border-raidus: 4px;">
 </a>
@@ -33,10 +37,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-makanju&show_icons=true&theme=radical)]            
 
 <div class="text-center" style="display:flex;align-item:center;flex:1;flex-direction:row;">
-     <div class="class-wrapper">
-     </div>
-     <div class="class-wrapper">
-     </div>
+    
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-makanju&theme=tokyonight)
