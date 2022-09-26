@@ -14,7 +14,7 @@ I’m an enthusiastic software developer and a technical writer , with a keen fo
 - 🌱 I’m currently working on something cool
 - 😊 I’m looking for help with open source projects, hackathons , internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer , Front Engineer , or UI Engineer (Mid-level / Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtomakurseme@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1pvKkZA1P5SnnGYUUHu-FZk1wZBug_ccNjzZx4vr5Z6Q/edit?usp=sharing) and contact me by emailing mailtomakurseme@gmail.com.
 - 💞️ Skillset: Vue js and React js...
 - [![Github](https://img.shields.io/github/followers/dev-makanju?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 - #webdev #github #frontend #devops #vue #react
